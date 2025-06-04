@@ -23,6 +23,13 @@
             </div>
             <div class="card-body p-5">
                 @{
+                    if(!Model.Any() || Model == null)
+                    {
+                        <div class="card-image w-100 d-flex justify-content-center">
+                            <img src="/assets/images/empty.jpg" alt="Ảnh minh họa" />
+                        </div>
+                        <p class="text-center card-title">Hiện chưa có sản phẩm nào được thêm vào giỏ hàng</p>
+                    }
                     foreach(var item in Model)
                     {
                         <div class="card shadow favourite-item mb-3">

@@ -710,13 +710,13 @@
     border-radius: 6px;
 }
 
-.favourite-card .card-image{
+.favourite-item .card-image{
     width: 220px;
     aspect-ratio: 1/1;
     overflow: hidden;
 }
 
-.favourite-card .card-image img {
+.favourite-item .card-image img {
     width: 100%;
     object-fit: cover;
     object-position: center;

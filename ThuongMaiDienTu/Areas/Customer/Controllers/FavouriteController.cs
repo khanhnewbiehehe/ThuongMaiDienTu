@@ -24,6 +24,11 @@ namespace ThuongMaiDienTu.Areas.Customer.Controllers
         public async Task<IActionResult> Index()
         {
             var user = await _userManager.GetUserAsync(User);
+            var favourite = await _favourite.Find(user.Id);
+            if(favourite == null)
+            {
+                await _favourite.Init(user.Id);
+            }
             var list = await _favourite.List(user.Id);
             return View(list);
         }
@@ -41,6 +46,12 @@ namespace ThuongMaiDienTu.Areas.Customer.Controllers
         public async Task<IActionResult> Create(int id)
         {
             var user = await _userManager.GetUserAsync(User);
+
+            var favourite = await _favourite.Find(user.Id);
+            if (favourite == null)
+            {
+                await _favourite.Init(user.Id);
+            }
 
             var result = await _favourite.Create(id, user.Id);
 
