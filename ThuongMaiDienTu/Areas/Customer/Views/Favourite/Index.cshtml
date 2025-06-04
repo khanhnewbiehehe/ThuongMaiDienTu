@@ -91,7 +91,7 @@
             }).then((result) => {
                 if (result.isConfirmed) {
                     $.ajax({
-                        url: `/Customer/Favourite/${id}`,
+                        url: `/Customer/Favourite/Delete/${id}`,
                         type: 'DELETE',
                         success: function (data) {
                             if (data == true) {

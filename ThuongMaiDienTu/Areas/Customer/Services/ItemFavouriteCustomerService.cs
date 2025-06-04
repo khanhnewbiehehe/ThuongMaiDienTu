@@ -13,20 +13,43 @@ namespace ThuongMaiDienTu.Areas.Customer.Services
             _context = context;
         }
 
-        public Task<bool> Create(int id, string FavouriteId)
+        public async Task<bool> Create(int id, string FavouriteId)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var item = await _context.FavouriteProducts.FirstOrDefaultAsync(x => x.ProductId == id && x.FavouriteId == FavouriteId);
+                if (item == null)
+                {
+                    var product = new FavouriteProduct();
+                    product.ProductId = id;
+                    product.FavouriteId = FavouriteId;
+                    _context.FavouriteProducts.Add(product);
+                    return await _context.SaveChangesAsync() > 0;
+                }
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
 
         public async Task<bool> Delete(int id, string FavouriteId)
         {
-            var item = await _context.FavouriteProducts.FirstOrDefaultAsync(x => x.ProductId == id && x.FavouriteId == FavouriteId);
-            if(item == null)
+            try
+            {
+                var item = await _context.FavouriteProducts.FirstOrDefaultAsync(x => x.ProductId == id && x.FavouriteId == FavouriteId);
+                if (item == null)
+                {
+                    return false;
+                }
+                _context.FavouriteProducts.Remove(item);
+                return await _context.SaveChangesAsync() > 0;
+            }
+            catch(Exception ex)
             {
                 return false;
-            }
-            _context.FavouriteProducts.Remove(item);
-            return await _context.SaveChangesAsync() > 0;
+            } 
         }
 
         public async Task<IEnumerable<Product>> List(string id)

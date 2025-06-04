@@ -27,7 +27,7 @@ namespace ThuongMaiDienTu.Areas.Customer.Controllers
             var list = await _favourite.List(user.Id);
             return View(list);
         }
-        [Route("Customer/Favourite/{id}")]
+        [Route("Customer/Favourite/Delete/{id}")]
         [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {
@@ -35,5 +35,32 @@ namespace ThuongMaiDienTu.Areas.Customer.Controllers
             var result = await _favourite.Delete(id, user.Id);
             return Json(result);
         }
+
+        [Route("Customer/Favourite/Create/{id}")]
+        [HttpPost]
+        public async Task<IActionResult> Create(int id)
+        {
+            var user = await _userManager.GetUserAsync(User);
+
+            var result = await _favourite.Create(id, user.Id);
+
+            if (result)
+            {
+                return Json(new
+                {
+                    success = true,
+                    message = "Sản phẩm đã được thêm vào danh sách yêu thích."
+                });
+            }
+            else
+            {
+                return Json(new
+                {
+                    success = false,
+                    message = "Không thể thêm sản phẩm vào danh sách yêu thích."
+                });
+            }
+        }
+
     }
 }

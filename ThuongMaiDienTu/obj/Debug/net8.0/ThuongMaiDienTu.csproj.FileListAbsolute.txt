@@ -155,3 +155,4 @@ C:\Users\DELL\source\repos\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\net8.0\Thuo
 C:\Users\DELL\source\repos\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\net8.0\ref\ThuongMaiDienTu.dll
 C:\Users\DELL\source\repos\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\DELL\source\repos\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\net8.0\scopedcss\Areas\Customer\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\source\repos\ThuongMaiDienTu\ThuongMaiDienTu\obj\Debug\net8.0\ThuongMaiDienTu.sourcelink.json
