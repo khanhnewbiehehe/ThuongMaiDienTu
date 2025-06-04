@@ -1,0 +1,44 @@
+﻿using Microsoft.EntityFrameworkCore;
+using ThuongMaiDienTu.Data;
+using ThuongMaiDienTu.Models;
+
+namespace ThuongMaiDienTu.Areas.Customer.Services
+{
+    public class ItemFavouriteCustomerService : IFavouriteCustomerService
+    {
+        private readonly AppDbContext _context;
+
+        public ItemFavouriteCustomerService(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        public Task<bool> Create(int id, string FavouriteId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<bool> Delete(int id, string FavouriteId)
+        {
+            var item = await _context.FavouriteProducts.FirstOrDefaultAsync(x => x.ProductId == id && x.FavouriteId == FavouriteId);
+            if(item == null)
+            {
+                return false;
+            }
+            _context.FavouriteProducts.Remove(item);
+            return await _context.SaveChangesAsync() > 0;
+        }
+
+        public async Task<IEnumerable<Product>> List(string id)
+        {
+            var list = await _context.FavouriteProducts.Include(x => x.Product)
+                                                        .ThenInclude(x => x.Launches)
+                                                       .Include(x => x.Product)
+                                                        .ThenInclude(x => x.Images)
+                                                       .Where(x => x.FavouriteId == id)
+                                                       .Select(x => x.Product)
+                                                       .ToListAsync();
+            return list;
+        }
+    }
+}
