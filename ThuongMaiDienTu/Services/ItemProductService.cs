@@ -57,11 +57,12 @@ namespace ThuongMaiDienTu.Services
                                               .ToListAsync();
             var result = new List<ProductCardVM>();
             foreach (var item in listProduct)
-            {
+            {                
                 var newProduct = new ProductCardVM
                 {
                     Id = item.Id,
                     Name = item.Name,
+                    CategoryId = item.CategoryId,
                     ImageUrl = item.Images?.FirstOrDefault()?.Url ?? "default.jpg" // hoặc null tùy bạn
                 };
 

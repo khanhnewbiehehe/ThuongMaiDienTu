@@ -1,0 +1,27 @@
+.noUi-connect {
+    background: #0d6efd;
+}
+
+.noUi-handle {
+    border-radius: 50%;
+    width: 18px !important;
+    height: 18px !important;
+    right: -9px !important;
+}
+
+.noUi-handle:before, 
+.noUi-handle:after {
+    display: none;
+}
+
+.price-display {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #0d6efd;
+}
+
+#price-range-slider {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    height: 8px;
+}

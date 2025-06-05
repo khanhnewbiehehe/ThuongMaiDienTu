@@ -45,7 +45,7 @@
         <div id="list-product" class="list_product owl-carousel carousel-1">
         </div>
     </div>
-    <h3 class="text-center my_largetitle">Categories</h3>
+    <h3 class="text-center my_largetitle" id="categories-header" style="cursor: pointer;">Categories</h3>
     <div class="list_categories ">
         <div id="list-categories" class="owl-carousel carousel-2">
         </div>
@@ -524,4 +524,9 @@
 @section Scripts {
     <script src="~/LoadData/LoadCategory.js"></script>
     <script src="~/LoadData/LoadProduct.js"></script>
+    <script>
+        document.getElementById('categories-header').addEventListener('click', function() {
+            window.location.href = '/Customer/Search';
+        });
+    </script>
 }
