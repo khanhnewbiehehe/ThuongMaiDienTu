@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\",
+  "WorkspaceRootPath": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\services\\itemfavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\services\\itemfavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|e:\\project\\c#\\thuongmaidientu\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\services\\ifavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\services\\ifavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|e:\\project\\c#\\thuongmaidientu\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|e:\\project\\c#\\thuongmaidientu\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|e:\\project\\c#\\thuongmaidientu\\thuongmaidientu\\thuongmaidientu\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,87 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Search\\Index.cshtml",
+              "ToolTip": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Search\\Index.cshtml",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAnwJMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T03:07:34.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ItemFavouriteCustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwFAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:02:55.163Z",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "ToolTip": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAM8CAAAAAAAAAAAmwNkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T03:06:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T03:02:11.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IFavouriteCustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:02:54.532Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Project\\C#\\ThuongMaiDienTu\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAUCAAAAAAAAAAAvwBoCAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T02:56:32.594Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 822,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }
