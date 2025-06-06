@@ -78,22 +78,18 @@
                 <div class="col-6">
                     <div class="card-content p-3">
                         <p class="card-title">@Model.Name</p>
-                        <div class="d-flex flex-nowrap justify-content-center mt-3">
+                        <div class="d-flex flex-wrap justify-content-start mt-3">
                             @{
-                                var isActive = "shadow";
-                                int countActive = 0;
+                                <div class="mini-card mt-3 shadow mx-2">
+                                    <div class="card-header">0</div>
+                                    <div class="card-body">@Model.Launches.OrderByDescending(x => x.Id).FirstOrDefault().Types.FirstOrDefault().MaxPrice.ToString("N0")</div>
+                                </div>
                                 foreach(var item in Model.Launches.OrderByDescending(x => x.Id).FirstOrDefault().Types.ToList()[0].Prices)
                                 {
-                                    if (item.Number > ViewBag.Registration && countActive == 0)
-                                    {
-                                        isActive = "active";
-                                        countActive++;
-                                    }
-                                    <div class="mini-card @isActive mx-2">
+                                    <div class="mini-card shadow mt-3 mx-2">
                                         <div class="card-header">@item.Number</div>
                                         <div class="card-body">@item.Price.ToString("N0")</div>
                                     </div>
-                                    isActive = "shadow";
                                 }
                             }
                         </div>

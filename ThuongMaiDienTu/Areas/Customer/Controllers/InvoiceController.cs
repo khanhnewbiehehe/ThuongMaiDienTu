@@ -134,5 +134,11 @@ namespace ThuongMaiDienTu.Areas.Customer.Controllers
 
             return View();
         }
+
+        [Route("Customer/Invoice")]
+        public async Task<IActionResult> Index()
+        {
+            return View();
+        }
     }
 }

@@ -21,6 +21,10 @@ namespace ThuongMaiDienTu.Models
         public int ProductLaunchId { get; set; }
         [ValidateNever]
         public ProductLaunch ProductLaunch { get; set; }
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal MinPrice {  get; set; }
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal MaxPrice { get; set; }
 
     }
 }
