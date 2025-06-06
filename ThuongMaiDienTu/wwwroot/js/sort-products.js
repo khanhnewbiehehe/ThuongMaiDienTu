@@ -17,21 +17,18 @@ function sortProducts(sortOption) {
     const productContainer = $('#list_search_product');
     const productRows = productContainer.find('.row');
     
-    if (productRows.length === 0) return;
-    
-    // Collect all product cards
+    if (productRows.length === 0) return;    // Collect all product cards
     const productCards = [];
     productRows.each(function() {
         $(this).find('.col-md-4').each(function() {
             productCards.push($(this));
         });
     });
-    
-    // Sort the product cards based on price
+      // Sort the product cards based on price
     productCards.sort(function(a, b) {
         // Extract price values by taking the first price in the range (minimum price)
-        const priceTextA = a.find('.card-text').text();
-        const priceTextB = b.find('.card-text').text();
+        const priceTextA = a.find('.product-price').text();
+        const priceTextB = b.find('.product-price').text();
         
         // Extract minimum price from price range "500.000₫ - 1.000.000₫"
         const minPriceA = priceTextA.split('-')[0].trim();
