@@ -20,11 +20,9 @@
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse d-lg-flex justify-content-lg-between" id="navbarSupportedContent">
-                    <div class="w-100 d-flex justify-content-center align-items-center">
-                        <form class="w-100 my_search" role="search">
-                            <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                </button>                <div class="collapse navbar-collapse d-lg-flex justify-content-lg-between" id="navbarSupportedContent">                    <div class="w-100 d-flex justify-content-center align-items-center">
+                        <form class="w-100 my_search d-flex" role="search" method="get" action="/Customer/Search">
+                            <input class="form-control" type="search" name="searchTerm" placeholder="Tìm kiếm sản phẩm..." aria-label="Search">
                         </form>
                     </div>
                     <div>

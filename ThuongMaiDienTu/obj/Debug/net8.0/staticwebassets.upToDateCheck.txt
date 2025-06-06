@@ -53,9 +53,7 @@ wwwroot\assets\images\product35.jpg
 wwwroot\assets\images\product36.jpg
 wwwroot\assets\images\RazerV3Mouse.jpg
 wwwroot\css\pagination.css
-wwwroot\css\price-slider.css
 wwwroot\css\site.css
-wwwroot\css\style.css
 wwwroot\favicon.ico
 wwwroot\js\price-slider.js
 wwwroot\js\script.js
@@ -123,4 +121,6 @@ wwwroot\lib\jquery\LICENSE.txt
 wwwroot\LoadData\LoadCategory.js
 wwwroot\LoadData\LoadProduct.js
 wwwroot\LoadData\LoadSearchProduct.js
+wwwroot\css\price-slider.css
 wwwroot\css\search.css
+wwwroot\css\style.css
