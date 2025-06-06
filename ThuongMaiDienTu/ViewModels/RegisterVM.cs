@@ -20,6 +20,6 @@ public class RegisterVM
     [Display(Name = "Confirm Password")]
     [DataType(DataType.Password)]
     public string ConfirmPassword { get; set; }
-
+    public string? AvatarUrl { get; set; }
 
 }

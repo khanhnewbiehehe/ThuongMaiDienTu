@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\LoadData\\LoadProduct.js"
     },
     {
+      "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846723887872033_default_AvtForPet.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\638846723887872033_default_AvtForPet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846725149581016_Doraemon_character.png",
+      "PackagePath": "staticwebassets\\Uploads\\638846725149581016_Doraemon_character.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\Doraemon_character.png",
+      "PackagePath": "staticwebassets\\Uploads\\Doraemon_character.png"
+    },
+    {
       "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\Categories01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\Categories01.jpg"
     },
@@ -75,6 +87,14 @@
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\carousel6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\carousel6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\empty.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\empty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\failed.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\failed.jpg"
     },
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\macbook.jpeg",
@@ -223,6 +243,10 @@
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\product36.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\success.png",
+      "PackagePath": "staticwebassets\\assets\\images\\success.png"
     },
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\site.css",

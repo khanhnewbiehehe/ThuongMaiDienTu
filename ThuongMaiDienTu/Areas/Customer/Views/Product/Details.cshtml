@@ -221,7 +221,7 @@
                                 <p class="card-title">@item.Name</p>
                                 <div class="quantity-input mt-4">
                                     <button type="button" class="decrease">−</button>
-                                    <input type="number" min="0" value="0" id="quantity" />
+                                    <input type="number" min="0" value="0" class="quantity" data-typeid="@item.Id" data-imageurl="@item.ImageUrl" data-name="@item.Name"/>
                                     <button type="button" class="increase">+</button>
                                 </div>
                             </div>
@@ -230,15 +230,17 @@
                 }
             }
         </div>
+        <input hidden id="GiaTien" value="@Model.Launches.OrderByDescending(x => x.Id).FirstOrDefault().Types.FirstOrDefault().Prices.Max(x => x.Price)"></input>
+        <input hidden id="SoLuongKhaDung" value="@(ViewBag.Quantity-ViewBag.Registration)"></input>
         <div class="mt-3">
             <p><strong>Tổng số lượng muốn mua: </strong><span id="Total-product">0</span></p>
         </div>
-        <a href="/Account/Login" class="btn btn-success fw-bold mt-3">
+        <button onclick="StartOrder()" class="btn btn-success fw-bold mt-3">
             <svg xmlns="http://www.w3.org/2000/svg" fill="white" width="20px" class="me-2" viewBox="0 0 576 512">
                 <path d="M0 24C0 10.7 10.7 0 24 0L69.5 0c22 0 41.5 12.8 50.6 32l411 0c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3l-288.5 0 5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5L488 336c13.3 0 24 10.7 24 24s-10.7 24-24 24l-288.3 0c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5L24 48C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z" />
             </svg>
             Đặt hàng
-        </a>
+        </button>
         <div class="mt-2">
             <span class="text-danger fw-bold text-decoration-underline">Ghi chú:</span>
             Bạn cần phải cọc <span class="text-danger fw-bold text-decoration-underline">30% giá trị đơn hàng theo giá tối đa</span> để phòng trường hợp khi bạn hủy yêu cầu chúng tôi sẽ dùng tiền đó để bù cho những khách hàng khác để đảm bảo quyền lợi về giá cho họ. Xin cảm ơn!
@@ -328,6 +330,62 @@
                         text: 'Đã xảy ra lỗi khi gửi yêu cầu.',
                         icon: 'error',
                         confirmButtonText: 'OK'
+                    });
+                }
+            });
+        }
+    </script>
+    <script>
+        function StartOrder() {
+            const total = Array.from(document.querySelectorAll(".quantity"))
+                .reduce((sum, input) => sum + parseInt(input.value || 0), 0);
+
+            const soLuongKhaDung = parseInt(document.getElementById("SoLuongKhaDung").value);
+
+            if (total === 0) {
+                Swal.fire({
+                    icon: 'warning',
+                    title: 'Chưa chọn sản phẩm',
+                    text: 'Bạn phải chọn ít nhất 1 sản phẩm để đặt hàng!',
+                });
+                return;
+            }
+
+            if (total > soLuongKhaDung) {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Không thể đặt hàng',
+                    text: 'Số lượng đặt vượt quá số lượng khả dụng!',
+                });
+                return;
+            }
+
+            const items = [];
+            document.querySelectorAll(".quantity").forEach(input => {
+                const quantity = parseInt(input.value || 0);
+                if (quantity > 0) {
+                    items.push({
+                        productTypeId: parseInt(input.dataset.typeid),
+                        quantity: quantity,
+                        amount: quantity * $('#GiaTien').val()
+                    });
+                }
+            });
+
+            $.ajax({
+                url: '/Customer/Invoice/PreOrder',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(items),
+                success: function () {
+                    // Sau khi POST thành công, chuyển đến trang Index (GET)
+                    window.location.href = '/Customer/Invoice/Create';
+                },
+                error: function (err) {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Lỗi gửi đơn hàng',
+                        text: 'Vui lòng thử lại hoặc kiểm tra kết nối.'
                     });
                 }
             });

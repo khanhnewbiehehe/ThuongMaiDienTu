@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\services\\itemfavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\services\\itemfavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\models\\priceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\models\\priceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\services\\ifavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\services\\ifavouritecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\views\\invoice\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\views\\invoice\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\views\\invoice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\views\\invoice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\services\\iinvoicecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\services\\iinvoicecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\services\\iteminvoicecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\services\\iteminvoicecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|c:\\users\\dell\\source\\repos\\thuongmaidientu\\thuongmaidientu\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B03BF4-29CE-49F7-841F-9A18A8B885C5}|ThuongMaiDienTu\\ThuongMaiDienTu.csproj|solutionrelative:thuongmaidientu\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,34 +109,178 @@
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ItemFavouriteCustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemFavouriteCustomerService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwFAAAAAJAAAAAAAAAA==",
+              "Title": "PriceItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\PriceItem.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Models\\PriceItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\PriceItem.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Models\\PriceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:02:55.163Z",
+              "WhenOpened": "2025-06-06T06:48:47.765Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ThuongMaiDienTu\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAIDAAAAAAAAAAAAACUDAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T06:20:55.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Result.cshtml",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Result.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Result.cshtml",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T06:12:16.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInvoiceCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\IInvoiceCustomerService.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Services\\IInvoiceCustomerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\IInvoiceCustomerService.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Services\\IInvoiceCustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:32:05.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Create.cshtml",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Create.cshtml",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Invoice\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T01:56:39.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\ProductType.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:50:13.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IFavouriteCustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Services\\IFavouriteCustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:02:54.532Z",
+              "WhenOpened": "2025-06-04T16:11:00.776Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\appsettings.json",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\appsettings.json",
+              "RelativeToolTip": "ThuongMaiDienTu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T04:25:10.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Models\\InvoiceItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\InvoiceItem.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Models\\InvoiceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:37:48.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Models\\Invoice.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:19:30.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0BAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T05:00:57.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemInvoiceCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemInvoiceCustomerService.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemInvoiceCustomerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemInvoiceCustomerService.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Services\\ItemInvoiceCustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:32:07.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Program.cs",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Program.cs",
+              "RelativeToolTip": "ThuongMaiDienTu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:59:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThuongMaiDienTu\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAMIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T03:55:00.189Z"
             }
           ]
         },

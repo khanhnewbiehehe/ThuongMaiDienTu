@@ -28,7 +28,7 @@ namespace ThuongMaiDienTu.Services
             
             foreach (var item in listInvoice)
             {
-                if(item.Invoice.Status != -1)
+                if(item.Invoice.Status != -1 && item.Invoice.Status != -100)
                 {
                     Registration += item.Quantity;
                 }

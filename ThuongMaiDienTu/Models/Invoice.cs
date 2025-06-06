@@ -12,7 +12,13 @@ namespace ThuongMaiDienTu.Models
         public string UserId { get; set; }
         [Required]
         public string Address { get; set; }
-        public int Status {  get; set; } 
+        public int Status {  get; set; }
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal Deposit { get; set; }
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal ToTal { get; set; } 
+        public string PaymentCode { get; set; }
+
         [Required]
         public DateTime CreateAt { get; set; }
         [ValidateNever]

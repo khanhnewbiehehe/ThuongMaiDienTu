@@ -10,6 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<ICategoryService, ItemCategoryService>();
 builder.Services.AddScoped<IProductService, ItemProductService>();
 builder.Services.AddScoped<IFavouriteCustomerService, ItemFavouriteCustomerService>();
+builder.Services.AddScoped<IInvoiceCustomerService, ItemInvoiceCustomerService>();
+builder.Services.AddScoped<IProductTypeCustomerService, ItemProductTypeCustomerService>();
+builder.Services.AddScoped<IVNPayService, VNPayService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -295,8 +295,18 @@ namespace ThuongMaiDienTu.Migrations
                     b.Property<DateTime>("CreateAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<decimal>("Deposit")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("PaymentCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("Status")
                         .HasColumnType("int");
+
+                    b.Property<decimal>("ToTal")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("UserId")
                         .IsRequired()
@@ -344,7 +354,7 @@ namespace ThuongMaiDienTu.Migrations
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int?>("ProductTypeId")
+                    b.Property<int>("ProductTypeId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -582,9 +592,13 @@ namespace ThuongMaiDienTu.Migrations
 
             modelBuilder.Entity("ThuongMaiDienTu.Models.PriceItem", b =>
                 {
-                    b.HasOne("ThuongMaiDienTu.Models.ProductType", null)
+                    b.HasOne("ThuongMaiDienTu.Models.ProductType", "ProductType")
                         .WithMany("Prices")
-                        .HasForeignKey("ProductTypeId");
+                        .HasForeignKey("ProductTypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ProductType");
                 });
 
             modelBuilder.Entity("ThuongMaiDienTu.Models.Product", b =>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YgXnDzBSmCDnfdVoQVqq54p4oBxqoEh9klimhszvmjw=",
+  "Hash": "/rL7Sm/93w4gfA0wtlF/W4QSx36mJoDZ0oanmnXS+70=",
   "Source": "ThuongMaiDienTu",
   "BasePath": "_content/ThuongMaiDienTu",
   "Mode": "Default",
@@ -1613,6 +1613,48 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\Categories12.jpg"
     },
     {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\empty.jpg",
+      "SourceId": "ThuongMaiDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\",
+      "BasePath": "_content/ThuongMaiDienTu",
+      "RelativePath": "assets/images/empty#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bvmcs6unr9",
+      "Integrity": "Oe2ewhyOLun7SIe1bk8v5h+mJBNbfVmTYTCNo2v081I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\empty.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\failed.jpg",
+      "SourceId": "ThuongMaiDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\",
+      "BasePath": "_content/ThuongMaiDienTu",
+      "RelativePath": "assets/images/failed#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ph95coobvp",
+      "Integrity": "TeuPPvRKuXx1Ulga/h9EpwMUayZe8MoQQG0VMelzrrI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\failed.jpg"
+    },
+    {
       "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\Logo.png",
       "SourceId": "ThuongMaiDienTu",
       "SourceType": "Discovered",
@@ -2432,6 +2474,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\RazerV3Mouse.jpg"
     },
     {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\success.png",
+      "SourceId": "ThuongMaiDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\",
+      "BasePath": "_content/ThuongMaiDienTu",
+      "RelativePath": "assets/images/success#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2eyzc2jdka",
+      "Integrity": "JiNKu1rCwhvb6I5r3LPMqTWkTCMzP75rciJxz+73c0s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\success.png"
+    },
+    {
       "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\site.css",
       "SourceId": "ThuongMaiDienTu",
       "SourceType": "Discovered",
@@ -2467,8 +2530,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "299ztu8g1c",
-      "Integrity": "lg7tBecSx/ljhN+pvlLa8AC4RfxC9qzlDJFvRk+WroU=",
+      "Fingerprint": "vzdl10sxqg",
+      "Integrity": "G9tei29Kc9VHE3fdPRdTxoaACP7xf3qPrq2o+vr6IO8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -3774,6 +3837,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\LoadData\\LoadProduct.js"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846723887872033_default_AvtForPet.jpg",
+      "SourceId": "ThuongMaiDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\",
+      "BasePath": "_content/ThuongMaiDienTu",
+      "RelativePath": "Uploads/638846723887872033_default_AvtForPet#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8itzzwg6jg",
+      "Integrity": "4HxnVXFgqGGHoMfALVKw8HFLGYvcoSpPQckvp7UrH+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\638846723887872033_default_AvtForPet.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846725149581016_Doraemon_character.png",
+      "SourceId": "ThuongMaiDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\",
+      "BasePath": "_content/ThuongMaiDienTu",
+      "RelativePath": "Uploads/638846725149581016_Doraemon_character#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aovkm65x38",
+      "Integrity": "WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\638846725149581016_Doraemon_character.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\Doraemon_character.png",
+      "SourceId": "ThuongMaiDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\",
+      "BasePath": "_content/ThuongMaiDienTu",
+      "RelativePath": "Uploads/Doraemon_character#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aovkm65x38",
+      "Integrity": "WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Doraemon_character.png"
     }
   ],
   "Endpoints": [
@@ -4922,6 +5048,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-IJQYZ9Zt3OE+7/06Onu7VXLSdPYaZ4WUVohNoERGY1M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/empty.bvmcs6unr9.jpg",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\empty.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oe2ewhyOLun7SIe1bk8v5h+mJBNbfVmTYTCNo2v081I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 13:27:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvmcs6unr9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/empty.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oe2ewhyOLun7SIe1bk8v5h+mJBNbfVmTYTCNo2v081I="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/empty.jpg",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\empty.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oe2ewhyOLun7SIe1bk8v5h+mJBNbfVmTYTCNo2v081I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 13:27:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oe2ewhyOLun7SIe1bk8v5h+mJBNbfVmTYTCNo2v081I="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/failed.jpg",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\failed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TeuPPvRKuXx1Ulga/h9EpwMUayZe8MoQQG0VMelzrrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:18:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TeuPPvRKuXx1Ulga/h9EpwMUayZe8MoQQG0VMelzrrI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/failed.ph95coobvp.jpg",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\failed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TeuPPvRKuXx1Ulga/h9EpwMUayZe8MoQQG0VMelzrrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:18:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ph95coobvp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/failed.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TeuPPvRKuXx1Ulga/h9EpwMUayZe8MoQQG0VMelzrrI="
         }
       ]
     },
@@ -8124,6 +8414,88 @@
       ]
     },
     {
+      "Route": "assets/images/success.2eyzc2jdka.png",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\success.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JiNKu1rCwhvb6I5r3LPMqTWkTCMzP75rciJxz+73c0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:17:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2eyzc2jdka"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/success.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JiNKu1rCwhvb6I5r3LPMqTWkTCMzP75rciJxz+73c0s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/success.png",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\assets\\images\\success.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JiNKu1rCwhvb6I5r3LPMqTWkTCMzP75rciJxz+73c0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:17:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JiNKu1rCwhvb6I5r3LPMqTWkTCMzP75rciJxz+73c0s="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -8206,51 +8578,6 @@
       ]
     },
     {
-      "Route": "css/style.299ztu8g1c.css",
-      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12315"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lg7tBecSx/ljhN+pvlLa8AC4RfxC9qzlDJFvRk+WroU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 11:57:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "299ztu8g1c"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lg7tBecSx/ljhN+pvlLa8AC4RfxC9qzlDJFvRk+WroU="
-        }
-      ]
-    },
-    {
       "Route": "css/style.css",
       "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -8261,7 +8588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12315"
+          "Value": "13829"
         },
         {
           "Name": "Content-Type",
@@ -8269,11 +8596,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lg7tBecSx/ljhN+pvlLa8AC4RfxC9qzlDJFvRk+WroU=\""
+          "Value": "\"G9tei29Kc9VHE3fdPRdTxoaACP7xf3qPrq2o+vr6IO8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 11:57:17 GMT"
+          "Value": "Fri, 06 Jun 2025 06:25:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8283,7 +8610,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lg7tBecSx/ljhN+pvlLa8AC4RfxC9qzlDJFvRk+WroU="
+          "Value": "sha256-G9tei29Kc9VHE3fdPRdTxoaACP7xf3qPrq2o+vr6IO8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.vzdl10sxqg.css",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G9tei29Kc9VHE3fdPRdTxoaACP7xf3qPrq2o+vr6IO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 06:25:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vzdl10sxqg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G9tei29Kc9VHE3fdPRdTxoaACP7xf3qPrq2o+vr6IO8="
         }
       ]
     },
@@ -15614,7 +15986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 11:57:17 GMT"
+          "Value": "Wed, 04 Jun 2025 14:38:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15651,7 +16023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 11:57:17 GMT"
+          "Value": "Wed, 04 Jun 2025 14:38:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15696,7 +16068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 11:57:17 GMT"
+          "Value": "Wed, 04 Jun 2025 14:38:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15741,7 +16113,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 11:57:17 GMT"
+          "Value": "Wed, 04 Jun 2025 14:38:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15752,6 +16124,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-dtOmpQg9AlxRKCSkyfnx6LuIB+K/NVuE1m7Sa3IpYng="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/638846723887872033_default_AvtForPet.8itzzwg6jg.jpg",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846723887872033_default_AvtForPet.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4HxnVXFgqGGHoMfALVKw8HFLGYvcoSpPQckvp7UrH+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 15:19:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8itzzwg6jg"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/638846723887872033_default_AvtForPet.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4HxnVXFgqGGHoMfALVKw8HFLGYvcoSpPQckvp7UrH+U="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/638846723887872033_default_AvtForPet.jpg",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846723887872033_default_AvtForPet.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4HxnVXFgqGGHoMfALVKw8HFLGYvcoSpPQckvp7UrH+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 15:19:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4HxnVXFgqGGHoMfALVKw8HFLGYvcoSpPQckvp7UrH+U="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/638846725149581016_Doraemon_character.aovkm65x38.png",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846725149581016_Doraemon_character.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 15:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aovkm65x38"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/638846725149581016_Doraemon_character.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/638846725149581016_Doraemon_character.png",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\638846725149581016_Doraemon_character.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 15:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Doraemon_character.aovkm65x38.png",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\Doraemon_character.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 15:04:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aovkm65x38"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Doraemon_character.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Doraemon_character.png",
+      "AssetFile": "C:\\Users\\DELL\\source\\repos\\ThuongMaiDienTu\\ThuongMaiDienTu\\wwwroot\\Uploads\\Doraemon_character.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 15:04:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WhunfTHL7ht9kle46HP9/eVWYHXsDzq4gzAbtHnCI88="
         }
       ]
     }
