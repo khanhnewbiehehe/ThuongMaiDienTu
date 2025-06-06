@@ -1,3 +1,12 @@
+wwwroot\assets\images\1bdf42e0-c23d-419b-b532-df55c2bb004e.jpg
+wwwroot\assets\images\3196654c-01c2-4c60-ab8f-4cbcb4e18893.jpg
+wwwroot\assets\images\3f4b74c0-5ac6-484a-8314-2ee46ec2334d.jpg
+wwwroot\assets\images\4274702f-588a-49ff-a9c4-c7e4fcdd4560.jpg
+wwwroot\assets\images\6b5a1ae8-f9b0-4769-b00a-46bdb4a24388.jpg
+wwwroot\assets\images\8b1a1651-9d4b-41ac-a20c-efc952043d2a.jpg
+wwwroot\assets\images\941af584-ba71-4c50-9b02-d717ee23155a.jpg
+wwwroot\assets\images\9581add1-2891-4e00-9ebf-76894ec4c86f.jpg
+wwwroot\assets\images\ac1dee02-4da8-425f-a3c5-31bc7d225284.jpg
 wwwroot\assets\images\carousel1.jpg
 wwwroot\assets\images\carousel2.jpg
 wwwroot\assets\images\carousel3.jpg
@@ -13,6 +22,7 @@ wwwroot\assets\images\Categories06.jpg
 wwwroot\assets\images\Categories07.jpg
 wwwroot\assets\images\Categories12.jpg
 wwwroot\assets\images\empty.jpg
+wwwroot\assets\images\f02ff08a-5908-4252-94b0-e5f3035c4ce0.jpg
 wwwroot\assets\images\failed.jpg
 wwwroot\assets\images\Logo.png
 wwwroot\assets\images\macbook.jpeg
@@ -54,9 +64,13 @@ wwwroot\assets\images\product35.jpg
 wwwroot\assets\images\product36.jpg
 wwwroot\assets\images\RazerV3Mouse.jpg
 wwwroot\assets\images\success.png
+wwwroot\assets\images\User.png
+wwwroot\css\Index.css
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\js\chart.js
+wwwroot\js\index.js
 wwwroot\js\script.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
